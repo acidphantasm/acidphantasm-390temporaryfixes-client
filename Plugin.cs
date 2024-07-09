@@ -6,7 +6,7 @@ using System;
 
 namespace acidphantasm_390temporaryfixes
 {
-    [BepInPlugin("phantasm.acid.390temporaryfixes", "acidphantasm-390temporaryfixes", "1.0.0")]
+    [BepInPlugin("phantasm.acid.390temporaryfixes", "acidphantasm-390temporaryfixes", "3.0.4")]
     public class Plugin : BaseUnityPlugin
     {
         private void Awake()
